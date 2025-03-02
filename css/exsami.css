@@ -1,0 +1,95 @@
+
+.m_cont{
+    width: 90%;
+    height: 90%;
+    margin-right: 42px;
+    margin-top: 20px;
+}
+.mmmm{
+    width: 95%;
+    height: 95%;
+display: flex;
+margin: 0 auto;
+}
+.mahdi_a{
+
+    width: 95%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+}
+.mahdi_b{
+
+width: 95%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+}
+.mahdi_c{
+
+width: 95%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+}
+.coliiii{
+width: 100%;
+height: 100%;
+
+}
+.coliiii_maa{
+    width: 100%;
+    height: 30%;
+    background-image: url(../imag/heder.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.coliiii_matn{
+    width: 100%;
+    height: 50%;
+background-color: cadetblue;
+
+}
+.coliiii_ghimat{
+    width: 100%;
+    height: 18%;
+    background-color: crimson;
+
+}
+.coliiii_mab{
+    width: 100%;
+    height: 30%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../imag/nabshi.webp);
+   
+}
+.coliiii_mac{
+    width: 100%;
+    height: 30%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../imag/navdani.webp);
+
+}
+.coliiii_mad{
+    width: 100%;
+    height: 30%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../imag/slide-6.jpg);
+}
+.coliiii_mae{
+    width: 100%;
+    height: 30%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../imag/vargh.webp);
+}
+.coliiii_maf{
+    width: 100%;
+    height: 30%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../imag/1.png);
+}

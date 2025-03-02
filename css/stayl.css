@@ -1,0 +1,83 @@
+header{
+    width: 90%;
+    height: 300px;
+    background-image: url(../imag/heder.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.mahdi_nav{
+    width: 100%;
+    height: 40%;
+    margin-top: 10px;
+}
+.loooo{
+    display: flex;
+}
+main{
+    width: 90%;
+    height: 600px;
+    background-color: antiquewhite;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.mahdi_main_rast{
+    width: 20%;
+    height: 100%;
+    background-color: blue;
+    border-radius: 15px;
+}
+.mahdi_main_chap{
+    width: 80%;
+    height: 100%;
+    background-color: brown;
+    border-radius: 15px;
+
+
+}
+.mahdi_main_chap_bala{
+    width: 90%;
+    height: 45%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.mahdi_main_chap_pain{
+    width: 90%;
+    height: 45%;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.mahdi_footer{
+    width: 90%;
+    height: 300px;
+    background-image: url(../imag/heder.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.mahdi_footer_ul{
+    margin-top: 50px;
+    
+}
+.mahdi_footer_li{
+    background-color: transparent;
+}
+.mahdi_footer_a{
+
+}
+.mahdi_footer_b{
+
+}
+.mahdi_footer_c{
+
+}
